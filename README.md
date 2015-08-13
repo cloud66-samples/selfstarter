@@ -24,7 +24,7 @@ Click the badge and follow the instructions below to deploy!
 
 #### Deploying on Cloud 66
 
-Simply follow 7 steps on [building your stack](https://www.cloud66.com/help/first_stack) to have your own fully functioning Selfstarter installation up and running. 
+Simply follow 6 steps on [building your stack](http://help.cloud66.com/building-your-stack/building-your-classic-stack) to have your own fully functioning Selfstarter installation up and running. 
 
 ## Getting Started
 
